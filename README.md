@@ -71,10 +71,10 @@
   <a href="https://github.com/Khanvilkarshravani27" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://x.com/shravanikhanvilkar27" target="_blank">
+  <a href="https://x.com/Shravani0727" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
-  <a href="https://linktr.ee/shravanikhanvilkar27" target="_blank">
+  <a href="https://linktr.ee/khanvilkarshravani27" target="_blank">
     <img src="https://img.shields.io/badge/Linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
   </a>
 </p>
