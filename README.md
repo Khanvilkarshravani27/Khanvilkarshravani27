@@ -22,9 +22,13 @@
 
 ### 🏆 Achievements & Milestones:
 
-- 🥈 **2nd Place Winner** at SoloHack 2025 (Built *SkillConnect*)
-- 👩‍💻 **Open Source Contributor @ GSSoC 2026:** Contributing to collaborative systems and AI-focused technologies in the Open Source & AI/Agents tracks.
-- 🌟 Completed **Hacktoberfest** contributions (2024, 2025)
+- 🥈 **2nd Place Winner** at **SoloHack 2025** for building *SkillConnect* under time constraints.
+- 🥈 **1st Runner-Up** at **RocketRide Buildathon (Mumbai Region)** among **100+ teams**, securing the opportunity to collaborate on deploying the winning solution.
+- 🏅 **Top 10 Finalist** at **Quantum Hacks Hackathon** among **500+ teams**.
+- 🏅 **Top 10 Finalist** at **HackCelestial 3.0 (Pillai University)** among **500+ teams**.
+- 🏅 **Top 25 Finalist** at **Mochatrade Hackathon** among **780+ teams**.
+- 👩‍💻 **Open Source Contributor @ GSSoC 2026** contributing to Open Source and AI/Agent-based projects.
+- 🌟 Successfully completed **Hacktoberfest 2024 & 2025**.
 - 👥 Active hackathon participant
 
 ---
